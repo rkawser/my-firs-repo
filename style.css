@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.website{
+text-align: center;
+color: black;
+width:700px;
+margin: 0 auto;
+box-shadow: 1px 1px 6px rgba(0,0,0,.4);
+
+}
+.menu{
+    background-color: #8e44ad;
+}
+.banner{
+background-color:#2980b9 ;
+}
+.container{
+    text-align: justify;
+    background-color:#16a085 ;
+}
+.footer{
+    background-color:gainsboro;
+}
+.footer-bottom{
+    background-color:#9b59b6;
+
+}
+img{
+    max-width: 100%;
+    margin-bottom: -5px;
+    
+}
+.op{
+    padding: 20px 0;
+}
+.container h3{
+    text-align: center;
+    text-transform: uppercase;
+}
+.menu h1{
+    text-transform: uppercase;
+}
+.footer h2{
+    text-transform: uppercase;
+}
